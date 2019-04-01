@@ -3,7 +3,7 @@
 My Melody is a music creator web app. Each row represents a note on a particular instrument and each column represents a time that note will be played. There are 32 time markers in total. Press play to hear your selections. Enter a name and press save to save your Melody for others to hear.
 
 ## Getting Started
-
+![Image description](/Users/jordansimon/Development/My Melody Front End/Screen Shot 2019-04-01 at 9.17.20 AM.png)
 To begin using fork and clone the project. CD into backend project folder. Use rake to create and migrate the database. Use rails start to server.
 
 ```
@@ -41,11 +41,11 @@ function repeat(time) {
 
 ## Built With
 
-JavaScript
-Ruby on Rails
-Tone.js
-HTML
-CSS
+JavaScript,
+Ruby on Rails,
+Tone.js,
+HTML,
+CSS,
 MySQL
 
 ## Authors
