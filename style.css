@@ -1,0 +1,60 @@
+body > div {
+
+  margin-top: 4rem;
+}
+body > div > div + div {
+  margin-top: 1rem;
+}
+
+h4 {
+padding-left: 6%
+
+}
+p {
+
+  font-size: 13px
+}
+
+h6 {
+  padding-left: 6%
+}
+
+span {
+  font-size: 12px
+}
+body{
+  font-family: Lucida;
+  background-color: #f2f2f2;
+}
+
+h1 {
+padding-left: 200px;
+}
+input[type="checkbox"]{
+  width: 24px; /*Desired width*/
+  height: 16px; /*Desired height*/
+}
+.instrument {
+  padding-left: 0%
+}
+.top {
+
+  
+}
+.left {
+    position:absolute;
+    left:0; top:0px; bottom: 0 !important;
+    width: 125px;
+}
+.main {
+    position: absolute;
+    left:200px; top:0px; right:0; bottom:0;
+}
+
+#nav {
+	width: 200px;
+	float: left;
+	margin: 0 0 1em 0;
+	padding: 0;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc;  }
